@@ -30,7 +30,9 @@ typedef unsigned long long ull;
 typedef pair<int, int> pii;
 typedef vector<pii> vpii;
 
-int main() {
 
+
+int main() {
+	
 	return 0;
 }
